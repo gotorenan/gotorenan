@@ -1,0 +1,27 @@
+- 👋 Hi, I’m Renan Goto, 32 years old, Brazilian!
+- 👀 A little about me in topics:
+  - Currently I'm a Global Sr. Manufacturing Engineer, working for one of the biggest automotive company
+  - Collecting a lot of giant company methodology / know-how, ready to learn coding and apply all my acknowledge in this new area
+  - Looking forward for carrer change from Factory Engineer to Software Engineer (JavaScrit or Blockchain)
+  - Graduation:
+    - Electronics Technician in 2007
+    - Control & Automation Engineer in 2012
+    - MBA in Strategic Management of Technological Innovation (Agile module 😉)
+    - Problem solving (Green Belt)
+    - FMEA Expert
+  - Languages
+    - Portuguese (Native)
+    - English (Advanced)
+    - German (Basics)
+    - Spanish (Basics) 
+- 🌱 I’m currently learning 
+  - JavaScript 
+  - Etherium & Solidity 
+  - React 
+  - AGILE Method (Scrum) 
+  - Data Science & Business Intelligence 
+  - GitHub Tool
+- 📫 How to reach me:
+  - E-mail: renangoto@outlook.com
+  - Phone: +55 19 99692 6116 (Whatsapp Number) 
+  - Linkeding: linkedin.com/in/renangoto
