@@ -2,7 +2,7 @@
 - 👀 A little about me in topics:
   - Currently I'm a Global Sr. Manufacturing Engineer, working for one of the biggest automotive company
   - Collecting a lot of giant company methodology / know-how, ready to learn coding and apply all my acknowledge in this new area
-  - Looking forward for carrer change from Factory Engineer to Software Engineer (JavaScrit or Blockchain)
+  - Looking forward for career change from Factory Engineer to Software Engineer (JavaScript or Blockchain)
   - Graduation:
     - Electronics Technician in 2007
     - Control & Automation Engineer in 2012
